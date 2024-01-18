@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "GameHub T-shirt",
+        "description": "Comfortable cotton T-shirt with GameHub logo.",
+        "price": 19.99,
+        "image": "gamehub_tshirt.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Gamer Mousepad",
+        "description": "Large mousepad featuring gaming artwork.",
+        "price": 14.99,
+        "image": "gamer_mousepad.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Console Coffee Mug",
+        "description": "High-quality ceramic mug shaped like a game console.",
+        "price": 12.99,
+        "image": "console_mug.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Game On! Poster",
+        "description": "Poster with vibrant 'Game On!' slogan for your gaming space.",
+        "price": 9.99,
+        "image": "game_on_poster.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Controller Keychain",
+        "description": "Miniature replica of a gaming controller keychain.",
+        "price": 7.99,
+        "image": "controller_keychain.jpg"
+      }
+    ]
+  }
+  
